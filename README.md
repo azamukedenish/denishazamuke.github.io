@@ -1,5 +1,5 @@
 # azamukedenish.github.io
-Azamuke Denish | Mobile Software Developer | Google's Flutter| Kampala, Uganda
+Azamuke Denish | Leader in Financia Inclusion by developing RegTech for Finance | Kampala, Uganda
 
 
 ## Contributor
